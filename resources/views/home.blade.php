@@ -13,6 +13,6 @@
 <script>
     const APP_URL = "{{ config("app.url") }}"
 </script>
-<script src="{{ mix("app.js") }}"></script>
+<script src="{{ mix("js/main.js") }}"></script>
 </body>
 </html>
